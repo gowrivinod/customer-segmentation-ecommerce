@@ -1,3 +1,7 @@
+![image alt](https://github.com/gowrivinod/customer-segmentation-ecommerce/blob/6834a0a3ffab684b5308adca82e7032620a10dd6/Photos/Screenshot%202026-06-17%20at%209.52.58%E2%80%AFPM.png)
+
+
+
 # Customer Segmentation Engine
 
 **Project:** Unsupervised ML-based customer segmentation using RFM analysis  
