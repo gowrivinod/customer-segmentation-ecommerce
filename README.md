@@ -1,5 +1,7 @@
 ![image alt](https://github.com/gowrivinod/customer-segmentation-ecommerce/blob/6834a0a3ffab684b5308adca82e7032620a10dd6/Photos/Screenshot%202026-06-17%20at%209.52.58%E2%80%AFPM.png)
-
+![image alt](https://github.com/gowrivinod/customer-segmentation-ecommerce/blob/01b902bface7404e40297432f43738cff6d49ac0/Photos/Screenshot%202026-06-17%20at%209.53.22%E2%80%AFPM.png)     
+![image alt](https://github.com/gowrivinod/customer-segmentation-ecommerce/blob/01b902bface7404e40297432f43738cff6d49ac0/Photos/Screenshot%202026-06-17%20at%209.53.52%E2%80%AFPM.png)
+![image alt](https://github.com/gowrivinod/customer-segmentation-ecommerce/blob/01b902bface7404e40297432f43738cff6d49ac0/Photos/Screenshot%202026-06-17%20at%209.54.09%E2%80%AFPM.png)
 
 
 # Customer Segmentation Engine
